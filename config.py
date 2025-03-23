@@ -15,7 +15,7 @@ ADMINS = list(map(int, os.environ.get("ADMINS", "6073523936").split()))
 # Your Mongodb Database Url
 DB_URI = os.environ.get(
     "DB_URI", 
-    "mongodb+srv://adityanegi735:your_real_password@cluster0.ig6gv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    "mongodb+srv://adityanegi735:SQlQhAOLyAbVaE32@cluster0.ig6gv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 )
 
 # Your Database Name
